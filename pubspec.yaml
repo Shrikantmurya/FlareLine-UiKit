@@ -20,7 +20,7 @@ dependencies:
 
   syncfusion_flutter_charts: any
 
-  syncfusion_flutter_datagrid: ^latest_version
+  syncfusion_flutter_datagrid: ^26.2.8
 
   syncfusion_flutter_maps: any
 
