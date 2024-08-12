@@ -7,76 +7,25 @@ environment:
   sdk: '>=3.3.1 <4.0.0'
 
 dependencies:
+  avatar_glow: ^3.0.1
+  desktop_drop: ^0.4.4
+  equatable: ^2.0.5
+  file_picker: ^8.0.5
   flutter:
     sdk: flutter
+  flutter_bloc: ^8.1.6
+  flutter_svg: ^2.0.10+1
+  get_storage: ^2.1.1
+  logger: ^2.4.0
+  responsive_builder: ^0.7.1
+  rx_event_bus: ^2.0.1
+  syncfusion_flutter_charts: ^26.2.8
+  syncfusion_flutter_datagrid: ^26.2.8
+  window_location_href: ^1.0.1+2
 
 #  cupertino_icons: ^1.0.6
 
-  get_storage: ^2.1.1
-
-  provider: ^6.1.1
-
-  popover: ^0.2.9
-
-  syncfusion_flutter_charts: any
-
-  syncfusion_flutter_datagrid: ^26.2.8
-
-  syncfusion_flutter_maps: any
-
-  transparent_image: ^2.0.1
-
-  google_fonts: any
-
-  flutter_svg: ^2.0.9
-
-  syncfusion_flutter_calendar: any
-
-  calendar_date_picker2: ^0.5.5
-
-  file_picker: ^6.1.1
-
-  flutter_dropzone: ^3.0.7
-
-  responsive_builder: ^0.7.0
-
-  window_manager: ^0.3.8
-
-  intl: any
-
-  flex_color_scheme: ^7.3.1
-
-  avatar_glow: ^3.0.1
-
-  uuid: ^4.4.0
-
-  html: ^0.15.4
-
-  faker: ^2.1.0
-
-  image_picker: ^0.8.7+5
-
-  mime: ^1.0.4
-
-  open_filex: ^4.3.2
-
-  path_provider: ^2.0.15
-
-  logger: ^2.2.0
-
-  rx_event_bus: ^2.0.1
-
-  url_launcher: ^6.2.6
-
-  json_annotation: any
-
-  window_location_href: ^1.0.1+2
-
-  desktop_drop: ^0.4.4
-
-  flutter_bloc: ^8.1.6
-  equatable: ^2.0.5
-  stream_transform: ^2.1.0
+  
 
 dev_dependencies:
   flutter_test:
